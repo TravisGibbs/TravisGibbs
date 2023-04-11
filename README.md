@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </span>
 <hr>
-<img src="https://komarev.com/ghpvc/?username=TravisGibbs" />
 
 
+[![Travis's GitHub stats](https://github-readme-stats.vercel.app/api?username=travisgibbs)](https://github.com/anuraghazra/github-readme-stats)
