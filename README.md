@@ -2,9 +2,13 @@
 
 ### Pronouns: He/Him  
 
-### Hi, I am graduating senior at Columbia University (SEAS) studying Computer Science with a focus on intelligent systems.
+#### Hi, I am a newly minted Software Engineer! I recently graduated from Columbia University (SEAS) with a degree in Computer Science with a focus on intelligent systems (AI Track).
 
-#### I was previously at Meta/Facebook for 3 summer internships. Prior to that I interned at Rockwell Collins (now Collins Aerospace).
+#### I was previously at Meta/Facebook for 3 summer internships. Prior to that, I interned at Rockwell Collins (now Collins Aerospace). 
+
+#### I am excited to be joining Epic Systems in August. In the meantime, you can find me working on some of my passion projects and open-source libraries. I am always looking for collaborators, opportunities to learn, and chances to create impact. Feel free to shoot me an email or connect on LinkedIn to talk more. 
+
+:)
 
 <br>
 <span>
@@ -12,10 +16,9 @@
    <a href="mailto:travisgibbs.2019@gmail.com" target="blank" ><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </span>
 
-<h2>My Technolgies :wrench:</h2>
+<h2>My Technologies :wrench:</h2>
 <span>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
