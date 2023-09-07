@@ -6,7 +6,7 @@
 
 #### I was previously at Meta/Facebook for 3 summer internships. Prior to that, I interned at Rockwell Collins (now Collins Aerospace). 
 
-#### I am excited to be joining Epic Systems in August. In the meantime, you can find me working on some of my passion projects and open-source libraries. I am always looking for collaborators, opportunities to learn, and chances to create impact. Feel free to shoot me an email or connect on LinkedIn to talk more. 
+#### I am currently working on mobile (IOS and Android) at Epic Systems. In my spare time, you can find me working on some of my passion projects and open-source libraries. I am always looking for collaborators, opportunities to learn, and chances to create impact. Feel free to shoot me an email or connect on LinkedIn to talk more. 
 
 :)
 
