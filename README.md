@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Travis :frog:</h1>
 
-### Pronouns: He/Him  
+Pronouns: He/Him
 
-#### Hi, I am a newly minted Software Engineer! I recently graduated from Columbia University (SEAS) with a degree in Computer Science with a focus on intelligent systems (AI Track).
+Hi, I am a newly minted Software Engineer! I recently graduated from Columbia University (SEAS) with a degree in Computer Science with a focus on intelligent systems (AI Track).
 
-#### I was previously at Meta/Facebook for 3 summer internships. Prior to that, I interned at Rockwell Collins (now Collins Aerospace). 
+I was previously at Meta/Facebook for 3 summer internships. Prior to that, I interned at Rockwell Collins (now Collins Aerospace). 
 
-#### I am currently working on mobile (IOS and Android) at Epic Systems. In my spare time, you can find me working on some of my passion projects and open-source libraries. I am always looking for collaborators, opportunities to learn, and chances to create impact. Feel free to shoot me an email or connect on LinkedIn to talk more. 
+I am currently working on mobile (IOS and Android) at Epic Systems. In my spare time, you can find me working on some of my passion projects and open-source libraries. I am always looking for collaborators, opportunities to learn, and chances to create impact. Feel free to shoot me an email or connect on LinkedIn to talk more. 
 
 :)
 
