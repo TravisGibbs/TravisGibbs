@@ -2,7 +2,7 @@
 
 Pronouns: He/Him
 
-I am currently working at Gem as a fullstack engineer on the CRM/AI teams!
+I am currently working at Gem as a fullstack engineer on the AI team!
 
 I graduated from Columbia University (SEAS) with a degree in Computer Science with a focus on intelligent systems (AI Track).
 
