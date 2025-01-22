@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Travis :frog:</h1>
+<h1 align="center">Hi, I'm Travis</h1>
 
 Pronouns: He/Him
 
